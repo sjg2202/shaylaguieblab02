@@ -28,7 +28,7 @@ The similarity between the two word clouds suggests that even when users search 
 Before conducting this analysis, I expected historical language to be much more prominent in the “history of matcha” word cloud. Instead, I was surprised by how closely it mirrored the combined dataset. This suggests that matcha’s historical and cultural depth may be flattened in popular digital representations, even when history is explicitly referenced. Rather than presenting matcha as a historically situated practice, YouTube descriptions often treat it as a timeless or universally understood cultural symbol.
 
 ## Future Improvements
-This research could be improved. Future studies could include searches conducted in Japanese, which may surface more historically detailed content. Analyzing video transcripts instead of short descriptions might also reveal deeper historical discussions that are not captured in metadata. Additionally, comparing YouTube with other platforms such as museum websites, academic lectures, or documentary archives could provide a more nuanced understanding of how matcha’s history is communicated across different digital spaces.
+This research could be improved by refining the data collection process. Starting with increasing the number of scroll iterations in the YouTube search results to collect a larger and more representative sample of videos, which may surface less popular but more historically focused content. And second, expanding the set of search terms while keeping them within the same topic, such as including additional variations of historically oriented phrases, could help capture a broader range of relevant videos. 
 
 ## CSV Files
 ### Data Downloads
